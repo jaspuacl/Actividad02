@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(184, 231, 139);
+}
+
+#color01{
+    font-family: georgia;
+}
+
+#color02{
+    border-style: ridge;
+    /* Estilo del borde de el recuadro */
+    margin: 10px;
+    /* Margen debajo del div */
+    margin-left: 300px;
+    /* Margen del recuadro de lado derecho */
+    margin-right: 300px;
+    /* Margen del recuadro del lado izquierdo */
+    display: block;
+    background-color: rgb(111, 153, 216);
+}
+
+#color03{
+    font-family: Times, 'Times New Roman', serif;
+}
+
+#color04{
+    border-style: ridge;
+    /* Estilo del borde de el recuadro */
+    margin: 10px;
+    /* Margen debajo del div */
+    margin-left: 500px;
+    /* Margen del recuadro de lado derecho */
+    margin-right: 500px;
+    /* Margen del recuadro del lado izquierdo */
+    display: block;
+    background-color: rgb(111, 153, 216);
+}
+
+#color05{
+    border-style: ridge;
+    /* Estilo del borde de el recuadro */
+    margin: 10px;
+    /* Margen debajo del div */
+    margin-left: 500px;
+    /* Margen del recuadro de lado derecho */
+    margin-right: 500px;
+    /* Margen del recuadro del lado izquierdo */
+    display: block;
+    background-color: rgb(111, 153, 216);
+}
